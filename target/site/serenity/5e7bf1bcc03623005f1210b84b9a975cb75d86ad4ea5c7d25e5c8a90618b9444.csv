@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories CURD with steps","This will create a new category","SUCCESS","2022-06-21T18:52:25.288+01:00[Europe/London]","0.0","5.21"
+"Categories CURD with steps","Verify if the category was added to the application","SUCCESS","2022-06-21T18:52:30.545+01:00[Europe/London]","0.0","0.32"
+"Categories CURD with steps","Update the category information and verify the updated information","SUCCESS","2022-06-21T18:52:30.867+01:00[Europe/London]","0.0","0.12"
+"Categories CURD with steps","Delete the category and verify if the category is deleted!","SUCCESS","2022-06-21T18:52:30.995+01:00[Europe/London]","0.0","1.42"

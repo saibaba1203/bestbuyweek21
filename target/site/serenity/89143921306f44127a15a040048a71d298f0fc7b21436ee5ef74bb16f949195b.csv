@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CRUD  with steps","This will create a new store","SUCCESS","2022-06-21T18:52:39.261+01:00[Europe/London]","0.0","0.07"
+"Stores CRUD  with steps","Verify if the store was added to the application","SUCCESS","2022-06-21T18:52:39.341+01:00[Europe/London]","0.0","0.04"
+"Stores CRUD  with steps","Update the store information and verify the updated information","SUCCESS","2022-06-21T18:52:39.379+01:00[Europe/London]","0.0","0.1"
+"Stores CRUD  with steps","Delete the store and verify if the store is deleted!","SUCCESS","2022-06-21T18:52:39.480+01:00[Europe/London]","0.0","0.06"
